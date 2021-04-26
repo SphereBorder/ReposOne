@@ -1,0 +1,5 @@
+#忽略所有.开头的文件
+.*
+
+#不忽略..gitignore文件
+!.gitignore
